@@ -14,6 +14,8 @@ Developed using Spring Boot
 ORM Tool : Hibernate
 **************
 Database : MySQL
+*****************
+Testing Clien : Postman
 
 ****************************
 *Rest01 is developed using Jersey
