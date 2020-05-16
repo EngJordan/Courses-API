@@ -6,3 +6,6 @@ API URLs for:
 1.GET   /courses
 2.GET   /course/{courseId}
 3.POST  /course
+
+
+Rest01 is developed using Jersey
