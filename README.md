@@ -3,6 +3,6 @@ Course API using Resful Web Services. Handle the HTTP.GET and HTTP.POST Request.
 
 
 API URLs for:
-GET   /courses
-GET   /course/{courseId}
-POST  /course
+1.GET   /courses
+2.GET   /course/{courseId}
+3.POST  /course
