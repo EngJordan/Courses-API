@@ -1,7 +1,12 @@
 package com.kartik.springRest;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Course 
 {
+	@Id
 	private int id;
 	private String cname;
 	private String cdescription;

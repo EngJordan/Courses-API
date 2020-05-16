@@ -11,4 +11,8 @@ public interface Courseinterface
 	public Course getCourse(int id);
 	
 	public Course addCourse(Course course);
+	
+	public Course updateCourse(Course course);
+	
+	public Course deleteCourse(int id);
 }
