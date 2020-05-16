@@ -15,7 +15,7 @@ ORM Tool : Hibernate
 **************
 Database : MySQL
 *****************
-Testing Clien : Postman
+Testing Client : Postman
 
 ****************************
 *Rest01 is developed using Jersey
